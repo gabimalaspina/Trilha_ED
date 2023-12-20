@@ -1,0 +1,4 @@
+aqui temos o conteúdo do arquivo txt =)
+
+agora, vamos criar um txt com diversas linhas:
+para fazer a leitura organizada, utilizamos a função splitlines() associada à função read().
